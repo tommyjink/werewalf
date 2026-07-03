@@ -1,0 +1,100 @@
+- generic [active] [ref=e1]:
+  - button "Open Next.js Dev Tools" [ref=e38] [cursor=pointer]:
+    - img [ref=e39]
+  - alert [ref=e42]
+  - main [ref=e43]:
+    - generic [ref=e44]:
+      - generic [ref=e45]:
+        - generic [ref=e46]: LPJXE
+        - generic [ref=e47]: 房间大厅
+        - generic [ref=e48]: "--"
+      - generic [ref=e49]:
+        - button "切换浅色模式" [ref=e50] [cursor=pointer]:
+          - img [ref=e51]
+        - textbox [ref=e57]: Grace
+        - button "复制链接" [ref=e58] [cursor=pointer]:
+          - img [ref=e59]
+        - button "离开" [ref=e62] [cursor=pointer]:
+          - img [ref=e63]
+    - generic [ref=e66]:
+      - complementary [ref=e67]:
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - paragraph [ref=e70]: Seats
+            - paragraph [ref=e71]: 1/8 players
+          - button "开始" [ref=e72] [cursor=pointer]:
+            - img [ref=e73]
+            - text: 开始
+        - generic [ref=e75]:
+          - generic [ref=e77]:
+            - img [ref=e78]
+            - generic [ref=e81]: Grace
+            - img [ref=e82]
+          - generic [ref=e84]:
+            - generic [ref=e87]: 空位
+            - generic [ref=e89]:
+              - button "坐下" [ref=e90] [cursor=pointer]
+              - button "设 AI" [ref=e91] [cursor=pointer]
+          - generic [ref=e92]:
+            - generic [ref=e95]: 空位
+            - generic [ref=e97]:
+              - button "坐下" [ref=e98] [cursor=pointer]
+              - button "设 AI" [ref=e99] [cursor=pointer]
+          - generic [ref=e100]:
+            - generic [ref=e103]: 空位
+            - generic [ref=e105]:
+              - button "坐下" [ref=e106] [cursor=pointer]
+              - button "设 AI" [ref=e107] [cursor=pointer]
+          - generic [ref=e108]:
+            - generic [ref=e111]: 空位
+            - generic [ref=e113]:
+              - button "坐下" [ref=e114] [cursor=pointer]
+              - button "设 AI" [ref=e115] [cursor=pointer]
+          - generic [ref=e116]:
+            - generic [ref=e119]: 空位
+            - generic [ref=e121]:
+              - button "坐下" [ref=e122] [cursor=pointer]
+              - button "设 AI" [ref=e123] [cursor=pointer]
+          - generic [ref=e124]:
+            - generic [ref=e127]: 空位
+            - generic [ref=e129]:
+              - button "坐下" [ref=e130] [cursor=pointer]
+              - button "设 AI" [ref=e131] [cursor=pointer]
+          - generic [ref=e132]:
+            - generic [ref=e135]: 空位
+            - generic [ref=e137]:
+              - button "坐下" [ref=e138] [cursor=pointer]
+              - button "设 AI" [ref=e139] [cursor=pointer]
+      - generic [ref=e140]:
+        - generic [ref=e141]:
+          - paragraph [ref=e143]: Log
+          - generic [ref=e144]: Day 0
+        - article [ref=e146]:
+          - generic [ref=e147]:
+            - generic [ref=e148]: 系统
+            - generic [ref=e149]: 20:59
+          - paragraph [ref=e150]: Grace 创建了房间。
+        - generic [ref=e151]:
+          - textbox "输入发言..." [ref=e152]
+          - button "发送" [disabled] [ref=e153]:
+            - img [ref=e154]
+            - text: 发送
+      - complementary [ref=e157]:
+        - generic [ref=e158]:
+          - heading "状态" [level=2] [ref=e159]
+          - generic [ref=e160]:
+            - generic [ref=e161]:
+              - paragraph [ref=e162]: 身份
+              - paragraph [ref=e163]: 未发放
+            - generic [ref=e164]:
+              - paragraph [ref=e165]: 状态
+              - paragraph [ref=e166]: 待开始
+            - generic [ref=e167]:
+              - paragraph [ref=e168]: 倒计时
+              - paragraph [ref=e169]: "--"
+        - generic [ref=e170]:
+          - heading "行动" [level=2] [ref=e171]
+          - paragraph [ref=e172]: 房主配置座位后开始游戏。
+        - generic [ref=e173]:
+          - heading "私有情报" [level=2] [ref=e174]
+          - paragraph [ref=e175]: 暂无额外信息。

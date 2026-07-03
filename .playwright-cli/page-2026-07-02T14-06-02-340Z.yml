@@ -1,0 +1,82 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e33]
+  - main [ref=e34]:
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - generic [ref=e37]: E2GTN
+        - generic [ref=e38]: 夜晚 · 狼人行动
+        - generic [ref=e39]: "46"
+      - generic [ref=e40]:
+        - button "切换浅色模式" [ref=e41] [cursor=pointer]:
+          - img [ref=e42]
+        - textbox [ref=e48]: Jack
+        - button "复制链接" [ref=e49] [cursor=pointer]:
+          - img [ref=e50]
+        - button "离开" [ref=e53] [cursor=pointer]:
+          - img [ref=e54]
+    - generic [ref=e57]:
+      - complementary [ref=e58]:
+        - generic [ref=e60]:
+          - paragraph [ref=e61]: Seats
+          - paragraph [ref=e62]: 6/8 players · min 6
+        - generic [ref=e66]:
+          - generic [ref=e68]:
+            - img [ref=e69]
+            - generic [ref=e72]: Jack
+            - img [ref=e73]
+          - generic [ref=e76]:
+            - img [ref=e167]
+            - generic [ref=e78]: James
+          - generic [ref=e84]:
+            - img [ref=e184]
+            - generic [ref=e86]: Emily
+          - generic [ref=e92]:
+            - img [ref=e201]
+            - generic [ref=e94]: Daniel
+          - generic [ref=e100]:
+            - img [ref=e218]
+            - generic [ref=e102]: Olivia
+          - generic [ref=e108]:
+            - img [ref=e235]
+            - generic [ref=e110]: Michael
+          - generic [ref=e118]: 空位
+          - generic [ref=e126]: 空位
+      - generic [ref=e131]:
+        - generic [ref=e132]:
+          - paragraph [ref=e134]: Log
+          - generic [ref=e135]: Day 1
+        - generic [ref=e136]:
+          - article [ref=e137]:
+            - generic [ref=e138]:
+              - generic [ref=e139]: 系统
+              - generic [ref=e140]: 22:03
+            - paragraph [ref=e141]: Jack 创建了房间。
+          - article [ref=e258]:
+            - generic [ref=e259]:
+              - generic [ref=e260]: 系统
+              - generic [ref=e261]: 22:06
+            - paragraph [ref=e262]: 身份已发放。第 1 夜开始。
+        - generic [ref=e142]:
+          - textbox "等待你的回合" [disabled] [ref=e263]
+          - button "发送" [disabled] [ref=e144]:
+            - img [ref=e145]
+            - text: 发送
+      - complementary [ref=e148]:
+        - generic [ref=e149]:
+          - heading "状态" [level=2] [ref=e150]
+          - generic [ref=e151]:
+            - generic [ref=e152]:
+              - paragraph [ref=e153]: 身份
+              - paragraph [ref=e154]: 村民
+            - generic [ref=e155]:
+              - paragraph [ref=e156]: 状态
+              - paragraph [ref=e157]: 存活
+            - generic [ref=e158]:
+              - paragraph [ref=e159]: 倒计时
+              - paragraph [ref=e160]: "46"
+        - generic [ref=e161]:
+          - heading "行动" [level=2] [ref=e162]
+          - paragraph [ref=e163]: 当前无需操作。
+        - generic [ref=e164]:
+          - heading "私有情报" [level=2] [ref=e165]
+          - paragraph [ref=e166]: 暂无额外信息。

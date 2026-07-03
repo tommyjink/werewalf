@@ -1,0 +1,23 @@
+- main [ref=e2]:
+  - button "切换浅色模式" [ref=e4] [cursor=pointer]:
+    - img [ref=e5]
+  - generic [ref=e11]:
+    - generic [ref=e12]:
+      - img [ref=e14]
+      - paragraph [ref=e16]: Werewolf AI Room
+      - heading "狼人杀" [level=1] [ref=e17]
+      - paragraph [ref=e18]: 真人和 AI 混合的一局简化狼人杀。
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]: Name
+        - textbox "Player name" [ref=e22]
+        - button "创建房间" [ref=e23] [cursor=pointer]:
+          - img [ref=e24]
+          - text: 创建房间
+      - generic [ref=e25]:
+        - generic [ref=e26]: Room code
+        - textbox "ABCDE" [ref=e27]
+        - button "加入房间" [ref=e28] [cursor=pointer]:
+          - img [ref=e29]
+          - text: 加入房间
+    - paragraph [ref=e32]: 5 人可开始，8 人体验最佳。
